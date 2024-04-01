@@ -12,7 +12,7 @@ githubUsername: 'TheDudeThatCode'
 <div align="centre">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Christian%20Nathan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/christiannathann/)](https://www.linkedin.com/in/christiannathann/) [![Twitter Badge](http://img.shields.io/badge/-@chriskavashaki-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/chriskavashaki)](https://twitter.com/chriskavashaki) [![GitHub followers](https://img.shields.io/github/followers/Suares5k?label=Follow&style=social)](https://github.com/Suares5k/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/--blue?style=social&logo=Instagram&link=https://www.instagram.com//)](https://www.instagram.com/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Suares5k.visitor-badge)](https://github.com/Suares5k) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Suares5k)
+[![Instagram Badge](https://img.shields.io/badge/--blue?style=social&logo=Instagram&link=https://www.instagram.com//)](https://www.instagram.com/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Suares5k)
  [![Christian Nathan](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://velhofumante.com/)
 
  </div>
@@ -57,6 +57,6 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.
 
 
 
-![Made with love in Brasil](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![Made with love in Brasil](https://madewithlove.now.sh/in?heart=true&template=for-the-badge) -->
 
-## ⭐️ from [Vedant Khairnar](https://github.com/VedantKhairnar)
+## ⭐️ from [Christian Nathan](https://github.com/Suares5k)
