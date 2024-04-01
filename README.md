@@ -1,16 +1,62 @@
-### Hi there 👋
+<!---
+title: TheDudeThatCode
+date: '2020-14-05'
+spoiler: Multimedia Realtime Readme Template
+categories: ["multimedia", "all-profile"]
+githubUsername: 'TheDudeThatCode'
+--->
 
-<!--
-**Suares5k/Suares5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am 
+![1](https://github.com/Suares5k/Suares5k/blob/master/2024-03dsfdf2.gif)
 
-Here are some ideas to get you started:
+<div align="centre">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Linkedin Badge](https://img.shields.io/badge/-Christian%20Nathan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/christiannathann/)](https://www.linkedin.com/in/christiannathann/) [![Twitter Badge](http://img.shields.io/badge/-@chriskavashaki-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/chriskavashaki)](https://twitter.com/chriskavashaki) [![GitHub followers](https://img.shields.io/github/followers/Suares5k?label=Follow&style=social)](https://github.com/Suares5k/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/--blue?style=social&logo=Instagram&link=https://www.instagram.com//)](https://www.instagram.com/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Suares5k.visitor-badge)](https://github.com/Suares5k) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Suares5k)
+ [![Christian Nathan](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://velhofumante.com/)
+
+ </div>
+
+![carbon](https://github.com/Suares5k/Suares5k/blob/master/code2%20(1)%20(1).png)
+
+<!---
+
+## Tech I Fonder
+ 
+
+
+![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
+
+A person for whom computers fascinate more than humans, a person with a great interest in Pentesting, Hardware hacking, Software Engineering and Programming.
+
+A person who is also
+Dev| Intern@Tesselate Imaging| Beta Microsoft Student Partner| Freelancer| DSC RCOEM Core| AI Mentor @Tesseract Coding| FOSS Enthusiast| in a DEEP Life!!
+
+Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.... 
+
+
+- 🔭 I’m currently working on my startup, Stay Tuned!!!
+- 🌱 I’m currently establishing a coding community!! 
+- 👯 I love to meet new people!!!
+- 🧥 Corrupt Fear US, The Honest Support US, The Heroic join US, Everyone Expect US!!
+- 💬 Ask me about any sort of motivation!!!
+- 📫 How to reach me: [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/)
+- ⚡ Fun fact: Gimme Music and I will work 48hrs a day!!
+
+![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=VedantKhairnar&hide=["issues"]&show_icons=true)
+
 -->
+
+<!--### Consider leaving a :star: for **[Chest X-Ray COVID-19](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :mask: [Detection](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :Brasil:** built by me! :hugs: <br>
+
+
+
+
+
+<!--[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/0)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/0)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/1)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/1)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/2)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/2)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/3)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/3)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/4)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/4)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/5)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/5)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/6)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/6)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/7)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/7)
+
+
+
+![Made with love in Brasil](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
+## ⭐️ from [Vedant Khairnar](https://github.com/VedantKhairnar)
