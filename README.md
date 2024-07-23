@@ -11,7 +11,7 @@ githubUsername: 'TheDudeThatCode'
 
 <div align="centre">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Christian%20Nathan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/christiannathann/)](https://www.linkedin.com/in/christiannathann/) [![Twitter Badge](https://img.shields.io/twitter/follow/scottydocs?style=social&link=https://twitter.com/chriskavashaki)](https://twitter.com/chriskavashaki) [![GitHub followers](https://img.shields.io/github/followers/Suares5k?label=Follow&style=social)](https://github.com/Suares5k/?tab=follow)
+[![Linkedin Badge](https://img.shields.io/badge/-Christian%20Nathan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/christiannathann/)](https://www.linkedin.com/in/christiannathann/) [![Twitter Badge](https://img.shields.io/twitter/follow/chriskavashaki?style=social&link=https://twitter.com/chriskavashaki)](https://twitter.com/chriskavashaki) [![GitHub followers](https://img.shields.io/github/followers/Suares5k?label=Follow&style=social)](https://github.com/Suares5k/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/--blue?style=social&logo=Instagram&link=https://www.instagram.com//)](https://www.instagram.com/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Suares5k/mql4-source-codes)
  [![Christian Nathan](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://velhofumante.com/)
 
